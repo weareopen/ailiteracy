@@ -1,2 +1,2 @@
 # AI Literacy.fyi
-Messing about with a new website for a new domain.
+Creating a super-simple website to showcase WAO's work on AI Literacy.
