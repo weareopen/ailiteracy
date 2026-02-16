@@ -1,2 +1,2 @@
 # AI Literacy.fyi
-AI literacies are part of digital literacies, not a separate field. This repo started as a super-simple website to showcase WAO's work on AI Literacies. Over time we retired it in favour of a smal microsite using a Mozilla experiment (Solo.ai)[https://soloist.ai/]
+AI literacies are part of digital literacies, not a separate field. This repo started as a super-simple website to showcase WAO's work on AI Literacies. Over time we retired it in favour of a smal microsite using a Mozilla experiment [Solo.ai](https://soloist.ai/). You can view [the archived version of our site](https://web.archive.org/web/20260209131507/https://ailiteracy.fyi/) that links to a variety of think pieces, articles and projects surrounding AI literacies.
